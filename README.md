@@ -1,11 +1,7 @@
 ## Hi there 👋
 
-🔭 I’m currently a PhD student in Computational Linguistics and Spanish
-🌱 I’m currently learning all things related to speech processing and Natural Language Processing.
-👯 I’m looking to collaborate on Jopara ASR
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-📫 How to reach me: wencshi@iu.edu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently a PhD student in Computational Linguistics and Spanish
+- 🌱 I’m currently learning all things related to speech processing and Natural Language Processing.
+- 👯 I’m looking to collaborate on Jopara ASR
+- 📫 How to reach me: wencshi@iu.edu
 
