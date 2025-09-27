@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 🔭 I’m currently a PhD student in Natural Language Processing (Speech Processing)
-🌱 I’m currently learning 
+🌱 I’m currently learning all things related to speech processing 
 👯 I’m looking to collaborate on Jopara ASR
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
